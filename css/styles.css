@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+}
+
+.light{
+  background-color: #dff442;
+  color: #8c2424;
+}
+
+.dark{
+background-color: #8c2424;
+color: #dff442;
+}
+
+.container-fluid{
+  margin: auto 0;
+}
+
+.panel-body{
+  /* margin: 10% 30%; */
+  border: 2px solid gray;
+  font-size: 30px;
+  font-style: italic;
+  /* color: red; */
+}
+
+#best{
+  border: 5px solid #d831ab;
+}
+
+.resize{
+    width: 90%;
+}

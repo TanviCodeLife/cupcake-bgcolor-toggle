@@ -1,0 +1,10 @@
+$(document).click(function(){
+  $("button#button-group").click(function(){
+    $("body").removeClass();
+    $("body").addClass("light");
+  });
+  $("button#button-group2").click(function(){
+    $("body").removeClass();
+    $("body").addClass("dark");
+  });
+});
